@@ -1,2 +1,2 @@
 # comikomakeup
-PORTFOLIO FOR A MAKE UP ARTIST
+Make up artist portfolio
