@@ -1,0 +1,44 @@
+[14-Jun-2020 14:48:48 Europe/Belgrade] PHP Notice:  Undefined index: korisnik in /home/shane/public_html/comikomakeup.ml/models/user/odjavljivanje.php on line 4
+[14-Jun-2020 14:48:48 Europe/Belgrade] PHP Notice:  Trying to get property 'id' of non-object in /home/shane/public_html/comikomakeup.ml/models/user/odjavljivanje.php on line 4
+[14-Jun-2020 15:28:25 Europe/Belgrade] PHP Notice:  Undefined variable: _SESSION in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 51
+[14-Jun-2020 15:28:25 Europe/Belgrade] PHP Notice:  Trying to get property 'id' of non-object in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 51
+[14-Jun-2020 15:28:25 Europe/Belgrade] PHP Notice:  Undefined variable: _SESSION in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 52
+[14-Jun-2020 15:28:25 Europe/Belgrade] PHP Notice:  Trying to get property 'id' of non-object in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 52
+[16-Jun-2020 19:55:55 Europe/Belgrade] PHP Notice:  Undefined index: korisnik in /home/shane/public_html/comikomakeup.ml/models/user/odjavljivanje.php on line 4
+[16-Jun-2020 19:55:55 Europe/Belgrade] PHP Notice:  Trying to get property 'id' of non-object in /home/shane/public_html/comikomakeup.ml/models/user/odjavljivanje.php on line 4
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 151
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 151
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 152
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 152
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 153
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 153
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 154
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 154
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 155
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 155
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 156
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 156
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 157
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 157
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Notice:  Undefined variable: brojElemenataFajla in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 158
+[17-Jun-2020 00:59:42 Europe/Belgrade] PHP Warning:  Division by zero in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 158
+[17-Jun-2020 02:05:25 Europe/Belgrade] PHP Notice:  Undefined variable: elementi in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 02:05:25 Europe/Belgrade] PHP Notice:  Undefined variable: i in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 02:05:25 Europe/Belgrade] PHP Notice:  Undefined offset: 2 in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 99
+[17-Jun-2020 02:15:41 Europe/Belgrade] PHP Notice:  Undefined variable: elementi in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 02:15:41 Europe/Belgrade] PHP Notice:  Undefined variable: i in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 02:15:41 Europe/Belgrade] PHP Notice:  Undefined offset: 2 in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 99
+[17-Jun-2020 04:23:27 Europe/Belgrade] PHP Notice:  Undefined variable: elementi in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 04:23:27 Europe/Belgrade] PHP Notice:  Undefined variable: i in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 04:23:27 Europe/Belgrade] PHP Notice:  Undefined offset: 2 in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 99
+[17-Jun-2020 12:05:50 Europe/Belgrade] PHP Notice:  Undefined variable: elementi in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 12:05:50 Europe/Belgrade] PHP Notice:  Undefined variable: i in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 12:05:50 Europe/Belgrade] PHP Notice:  Undefined offset: 2 in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 99
+[17-Jun-2020 12:14:03 Europe/Belgrade] PHP Notice:  Undefined variable: elementi in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 12:14:03 Europe/Belgrade] PHP Notice:  Undefined variable: i in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 12:14:03 Europe/Belgrade] PHP Notice:  Undefined offset: 2 in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 99
+[17-Jun-2020 12:26:49 Europe/Belgrade] PHP Notice:  Undefined variable: elementi in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 12:26:49 Europe/Belgrade] PHP Notice:  Undefined variable: i in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 97
+[17-Jun-2020 12:26:49 Europe/Belgrade] PHP Notice:  Undefined offset: 2 in /home/shane/public_html/comikomakeup.ml/config/konekcija.php on line 99
+[19-Jun-2020 15:17:51 Europe/Belgrade] PHP Notice:  Undefined index: korisnik in /home/shane/public_html/comikomakeup.ml/models/user/odjavljivanje.php on line 4
+[19-Jun-2020 15:17:51 Europe/Belgrade] PHP Notice:  Trying to get property 'id' of non-object in /home/shane/public_html/comikomakeup.ml/models/user/odjavljivanje.php on line 4
